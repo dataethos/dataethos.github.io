@@ -9,7 +9,7 @@ url: "http://dataethos.github.io" # the base hostname & protocol for your site
 twitter_username: dataethos
 github_username:  dataethos
 category-list: [cooking]
-cooking-categories: [beef, breakfast, dessert, pork, "rice & noodles", seafood, soup]
+cooking-categories: [beef, breakfast, dessert, "instant pot", pork, "rice & noodles", seafood, soup]
 
 # Build settings
 markdown: kramdown
